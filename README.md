@@ -1,5 +1,5 @@
 # WordPress-Project
-Some work I did with [OBEL Digital Agency](http://www.obeldigital.com/)
+Some WordPress work I did with [OBEL Digital Agency](http://www.obeldigital.com/)
 
 [Fitish Women](http://www.fitishwoman.com/)
 
