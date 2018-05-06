@@ -1,2 +1,2 @@
 # WordPress-Project
-Some work I did with the OBEL Digital Agency
+Some work I did with [OBEL Digital Agency](http://www.obeldigital.com/)
